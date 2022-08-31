@@ -11,3 +11,9 @@ Simply comment in or out the script tag of the version of the game you would lik
 Using the GoLive server (or your preferred method to launch), launch index.html and play along in the alerts.
 
 Stay tuned for additional refactors...enjoy!
+
+## Update
+
+Updated with vanilla js DOM version in DOMgame folder.
+
+Copy path for index.html in DOMgame folder and paste/launch in your browser to play.
